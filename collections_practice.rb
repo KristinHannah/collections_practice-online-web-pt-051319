@@ -53,9 +53,7 @@ def add_s(array)
    return newArray
 end 
 
-def sum_array(array)
-  
-end 
+
 
 
 
